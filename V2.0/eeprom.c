@@ -1,4 +1,4 @@
-//EEPROM emulation library for HAL
+//EEPROM emulation library for STM32F1XX with HAL-Driver
 //V2.0
 
 
